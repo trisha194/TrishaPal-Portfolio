@@ -403,7 +403,7 @@ col.fixed-width {
     box-shadow: 10px 10px 20px #cbcbcb,
                 -10px -10px 20px #ffffff;
     padding: 20px;
-    width: 300px;
+    width: 350px;
     text-align: left;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     position: relative;
@@ -417,19 +417,19 @@ col.fixed-width {
 }
 
 .skill-card i.material-icons {
-    font-size: 40px;
+    font-size: 44px;
     color: #333;
     margin-bottom: 10px;
 }
 
 .skill-card h3 {
-    font-size: 20px;
+    font-size: 24px;
     margin-bottom: 15px;
     color: #333;
 }
 
 .skill-card p {
-    font-size: 14px;
+    font-size: 18px;
     color: #666;
     line-height: 1.6;
 }
