@@ -403,7 +403,7 @@ col.fixed-width {
     box-shadow: 10px 10px 20px #cbcbcb,
                 -10px -10px 20px #ffffff;
     padding: 20px;
-    width: 550px;
+    width: 700px;
     text-align: left;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     position: relative;
@@ -423,7 +423,7 @@ col.fixed-width {
 }
 
 .skill-card h3 {
-    font-size: 26px;
+    font-size: 28px;
     margin-bottom: 15px;
     color: #333;
 }
