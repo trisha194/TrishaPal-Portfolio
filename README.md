@@ -13,7 +13,14 @@ Welcome to my portfolio website! This project showcases my journey, skills, and 
 
 ## 📂 Project Structure
 
-portfolio/ │ ├── index.html # Home page (This file) ├── internships.html # Internships page ├── certificates.html # Certifications page ├── resume.html # Resume page ├── projects.html # Projects page ├── portfolio.css # Custom CSS for styling ├── images/ # Folder containing images and icons │ ├── profile me.jpg # Profile picture │ ├── ml_icon.png # Machine Learning icon │ ├── data_science_icon_.png # Data Science icon │ ├── python_icon_.png # Python icon │ ├── ai_icon_.png # AI icon │ ├── web_development_icon_.png # Web Development icon │ ├── Data Analytics.png # Data Analytics icon │ └── ... # Additional icons and images └── README.md # This file
+portfolio/
+├── index.html            # Home page (This file)
+├── internships.html      # Internships page
+├── certificates.html     # Certifications page
+├── resume.html           # Resume page
+├── projects.html         # Projects page
+├── portfolio.css         # Custom CSS for styling
+
 
 
 ## 🛠️ Technologies Used
