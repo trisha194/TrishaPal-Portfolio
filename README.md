@@ -13,13 +13,8 @@ Welcome to my portfolio website! This project showcases my journey, skills, and 
 
 ## 📂 Project Structure
 
-portfolio/
-├── index.html            # Home page (This file)
-├── internships.html      # Internships page
-├── certificates.html     # Certifications page
-├── resume.html           # Resume page
-├── projects.html         # Projects page
-├── portfolio.css         # Custom CSS for styling
+![image](https://github.com/user-attachments/assets/ec8e706b-6811-4964-a192-13c90f77e678)
+
 
 
 
