@@ -2,6 +2,10 @@
 
 Welcome to my portfolio website! This project showcases my journey, skills, and aspirations as an aspiring Data Scientist. It highlights my education, technical skills, areas of interest, and contact details.
 
+### Live Demo
+
+Check out the live version of my portfolio: [Trisha's Portfolio](https://trisha194.github.io/TrishaPal-Portfolio/)
+
 ## 🌟 Features
 
 - **Navigation Bar**: Quick access to key sections - Home, Internships, Certifications, Resume, and Projects.
