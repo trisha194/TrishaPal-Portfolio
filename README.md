@@ -35,7 +35,5 @@ Check out the live version of my portfolio: [Trisha's Portfolio](https://trisha1
 - **Email**: [trishapal845@gmail.com](mailto:trishapal845@gmail.com)
 - **LinkedIn**: [linkedin.com/in/trisha-pal-836866240](https://www.linkedin.com/in/trisha-pal-836866240)
 
-Feel free to clone this repository and explore my portfolio. Your feedback is always welcome!
-
 ---
 **Author**: Trisha Pal  
